@@ -1,2 +1,2 @@
 #Introduction 
-This project aims at introduc
+This project aims at introducing 
